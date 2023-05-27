@@ -1,0 +1,24 @@
+{
+  "name": "bonjo-cat",
+  "version": "1.0.0",
+  "description": "A slack bot to add songs sent in a channel to a spotify playlist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivz3232/bonjo-cat.git"
+  },
+  "keywords": [
+    "slack",
+    "spotify",
+    "bot"
+  ],
+  "author": "D G Shivu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shivz3232/bonjo-cat/issues"
+  },
+  "homepage": "https://github.com/Shivz3232/bonjo-cat#readme"
+}
